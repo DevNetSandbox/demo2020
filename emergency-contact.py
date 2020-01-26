@@ -2,7 +2,7 @@ import requests
 from getpass import getpass
 from requests.auth import HTTPBasicAuth
 
-dnac_domain = 'https://sandboxdnac.cisco.com'
+dnac_domain = 'https://sandboxdnac2.cisco.com'
 print('===================================')
 print('Welcome to the DevNet Sandbox Demo!')
 print('===================================')
